@@ -1,6 +1,6 @@
 # Projeto de Programação 1
 
-O PokeCin é um projeto desenvolvido como parte da disciplina de Programação 1 do curso de Sistemas de Informação na Universidade Federal de Pernambuco. Este jogo 2D é fruto do esforço e colaboração dos alunos Alberis Alves da Silva (aas11), Aldo dos Santos Ferreira Lemos (asfl), Arlen Ferreira da Silva Filho (afsf2) e Gustavo Diego (gds4). 
+O PokeCin é um projeto desenvolvido como parte da disciplina de Programação 1 no curso de Sistemas de Informação. Este jogo 2D é fruto do esforço e colaboração dos alunos Alberis Alves da Silva (aas11), Aldo dos Santos Ferreira Lemos (asfl), Arlen Ferreira da Silva Filho (afsf2) e Gustavo Diego (gds4). 
 
 O principal objetivo é aplicar a lógica de programação aprendida durante o curso, proporcionando uma experiência prática e divertida para os jogadores.
 
